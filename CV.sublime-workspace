@@ -455,7 +455,7 @@
 			"file": "Chung_Yi_Kao.tex",
 			"settings":
 			{
-				"buffer_size": 4808,
+				"buffer_size": 4817,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -591,6 +591,7 @@
 	],
 	"file_history":
 	[
+		"/Volumes/NO NAME/攻殼機動隊/GhostInTheShellh1080mega/GhostInTheShellh1080mega/Ghost.In.The.Shell.2017.720p.HC.HDRip.X264.AC3-EVO.cht.sup",
 		"/Users/Backman/Desktop/leetcode/sol581.py",
 		"/Users/Backman/Desktop/leetcode/sol33.py",
 		"/Users/Backman/Desktop/findJob/resume/Chung_Yi_Kao.tex",
@@ -717,8 +718,7 @@
 		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/searcher.py",
 		"/Users/Backman/Desktop/openshift/minder/imageProcessCore/colordescriptor.py",
 		"/Users/Backman/Desktop/openshift/minder/views/findTag.jade",
-		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/RS/analysisRS.py",
-		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/RS/searcher.py"
+		"/Users/Backman/Desktop/fooder/fooder-server/fooder/main/RS/analysisRS.py"
 	],
 	"find":
 	{
@@ -853,15 +853,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4808,
+						"buffer_size": 4817,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1922,
+								1922
 							]
 						],
 						"settings":
@@ -871,7 +871,7 @@
 							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 449.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -923,7 +923,7 @@
 	{
 		"height": 112.0
 	},
-	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
 	"project": "CV.sublime-project",
 	"replace":
 	{
