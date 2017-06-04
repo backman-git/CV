@@ -37,6 +37,14 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT Chung_Yi_Kao.aux
 INPUT Chung_Yi_Kao.aux
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def
+INPUT /usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT /usr/local/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
