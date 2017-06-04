@@ -10,6 +10,8 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty

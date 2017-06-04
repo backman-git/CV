@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.3)  4 JUN 2017 10:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.3)  4 JUN 2017 11:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -38,7 +38,10 @@ No auxiliary output files.
 \resumewidth=\dimen104
 \@columnwidth=\dimen105
 \c@numberofcolumns=\count87
-) (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
+) (/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2016/05/05 v6.83n Hypertext links for LaTeX
 
 (/usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -158,20 +161,20 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 \Hy@SectionHShift=\skip44
 )
 (./Chung_Yi_Kao.aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
 \AtBeginShipoutBox=\box26
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty
@@ -200,7 +203,7 @@ File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 \makeMPintoPDFobject=\count104
 \everyMPtoPDFconversion=\toks21
 )))
-Package hyperref Info: Link coloring ON on input line 14.
+Package hyperref Info: Link coloring ON on input line 16.
  (/usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
@@ -209,20 +212,20 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count105
 )
-LaTeX Info: Redefining \ref on input line 14.
-LaTeX Info: Redefining \pageref on input line 14.
-LaTeX Info: Redefining \nameref on input line 14.
+LaTeX Info: Redefining \ref on input line 16.
+LaTeX Info: Redefining \pageref on input line 16.
+LaTeX Info: Redefining \nameref on input line 16.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 25.
+(Font)              <7> on input line 27.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 25.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 42.
+(Font)              <5> on input line 27.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 36.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 42.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 36.
 Missing character: There is no â in font cmbx10!
 Missing character: There is no € in font cmbx10!
 Missing character: There is no ‹ in font cmbx10!
@@ -236,47 +239,41 @@ Missing character: There is no â in font cmsl10!
 Missing character: There is no € in font cmsl10!
 Missing character: There is no ‹ in font cmsl10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+Underfull \hbox (badness 10000) in paragraph at lines 102--104
 
  []
 
-Missing character: There is no â in font cmsl10!
-Missing character: There is no € in font cmsl10!
-Missing character: There is no ‹ in font cmsl10!
-Missing character: There is no â in font cmr10!
-Missing character: There is no € in font cmr10!
-Missing character: There is no ‹ in font cmr10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 103--105
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 
  []
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ‹ in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 122.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 122.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 122.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 122.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 122.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
  ) 
 Here is how much of TeX's memory you used:
- 4889 strings out of 493014
- 72475 string characters out of 6133352
- 160009 words of memory out of 5000000
- 8446 multiletter control sequences out of 15000+600000
+ 4896 strings out of 493014
+ 72727 string characters out of 6133352
+ 160069 words of memory out of 5000000
+ 8449 multiletter control sequences out of 15000+600000
  4906 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 29i,8n,24p,251b,316s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,24p,251b,318s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Chung_Yi_Kao.pdf (1 page, 73495 bytes).
+Output written on Chung_Yi_Kao.pdf (1 page, 74523 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
