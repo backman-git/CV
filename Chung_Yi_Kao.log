@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.3)  4 JUN 2017 12:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016) (preloaded format=pdflatex 2017.1.3)  4 JUN 2017 12:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -239,26 +239,26 @@ Missing character: There is no â in font cmsl10!
 Missing character: There is no € in font cmsl10!
 Missing character: There is no ‹ in font cmsl10!
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--104
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 103--105
 
  []
 
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ‹ in font cmr10!
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 127.
 [1
 
 {/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 126.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 127.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 127.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 127.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 127.
  ) 
 Here is how much of TeX's memory you used:
  4896 strings out of 493014
@@ -273,7 +273,7 @@ Here is how much of TeX's memory you used:
 </usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></
 usr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></u
 sr/local/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Chung_Yi_Kao.pdf (1 page, 74524 bytes).
+Output written on Chung_Yi_Kao.pdf (1 page, 74533 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
