@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1506041872 "Chung_Yi_Kao.tex" "Chung_Yi_Kao.pdf" "Chung_Yi_Kao" 1506041872
+["pdflatex"] 1506042753 "Chung_Yi_Kao.tex" "Chung_Yi_Kao.pdf" "Chung_Yi_Kao" 1506042778
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -38,8 +38,8 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1483445710 3873396 b377868ed3d97209b35d316d6db68df7 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "Chung_Yi_Kao.aux" 1504663675 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Chung_Yi_Kao.tex" 1506041872 5077 7defef5323713371f913250670187e3c ""
+  "Chung_Yi_Kao.tex" 1506042778 5121 5e6866dd98ec64e7088f306a92de309c ""
   "res.cls" 1504663675 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   (generated)
-  "Chung_Yi_Kao.pdf"
   "Chung_Yi_Kao.log"
+  "Chung_Yi_Kao.pdf"
