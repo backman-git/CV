@@ -10,8 +10,12 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/helvet.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/helvet.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hyperref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
@@ -19,8 +23,6 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.st
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
-INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/auxhook.sty

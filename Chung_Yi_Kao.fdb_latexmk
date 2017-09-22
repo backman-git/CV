@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1505359746 "Chung_Yi_Kao.tex" "Chung_Yi_Kao.pdf" "Chung_Yi_Kao" 1505359746
+["pdflatex"] 1506041872 "Chung_Yi_Kao.tex" "Chung_Yi_Kao.pdf" "Chung_Yi_Kao" 1506041872
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -18,6 +18,7 @@
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/article.cls" 1459635588 19821 310da678527a7dfe2a02c88af38079b7 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd" 1454284088 2256 80ce1168fb4ce6a85583a9cf8972c013 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo" 1459635588 8292 e897c12e1e886ce77fe26afc5d470886 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty" 1317339792 42666 6fa770e3485520a6a5f2ea7d259c8f8d ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty" 1462915952 6883 23a1cf7539666cc26042e9939b5d08c9 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty" 1428932888 2594 d18d5e19aa8239cf867fa670c556d2e9 ""
@@ -30,14 +31,14 @@
   "/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/kvoptions.sty" 1463608860 22417 1d9df1eb66848aa31b18a593099cf45c ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty" 1463608860 9581 023642318cef9f4677efe364de1e2a27 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/pdftex-def/pdftex.def" 1306616590 55368 3c8a0d99822330f2dfabc0dfb09ce897 ""
-  "/usr/local/texlive/2016/texmf-dist/tex/latex/tools/indentfirst.sty" 1454284088 1617 820bc46185ca5aeeda2ecc6c21866b18 ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/psnfss/helvet.sty" 1156702453 1500 3c2647c8649928795ededd42a6e85f85 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2016/texmf-dist/web2c/texmf.cnf" 1463093894 31953 b9489e6e586f798610c60aec1f5ec548 ""
   "/usr/local/texlive/2016/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1483445592 1888048 f2c5faed5981a516f406b2ccc20bff71 ""
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1483445710 3873396 b377868ed3d97209b35d316d6db68df7 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "Chung_Yi_Kao.aux" 1504663675 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Chung_Yi_Kao.tex" 1505359737 5595 d7ffae67ef2fea483ab0754526ca24dd ""
+  "Chung_Yi_Kao.tex" 1506041872 5077 7defef5323713371f913250670187e3c ""
   "res.cls" 1504663675 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   (generated)
   "Chung_Yi_Kao.pdf"

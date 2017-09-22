@@ -2,123 +2,134 @@
 % This file uses the resume document class (res.cls)
 
 \documentclass{res} 
-\usepackage{indentfirst} \setlength{\parindent}{2em}
-
+\usepackage{helvet}
+\usepackage{enumitem}
 \usepackage[colorlinks = true,
             linkcolor = blue,
             urlcolor  = blue,
             citecolor = blue,
             anchorcolor = blue]{hyperref}
-%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
-%\usepackage{newcent}   % uses new century schoolbook postscript font 
-\setlength{\textheight}{9.5in} % increase text height to fit on 1-page 
+
+\makeatletter 
+\renewcommand{\section}{\@startsection{section}{1}{0mm}
+  {-\baselineskip}{0.5\baselineskip}{\bf\leftline}}
+\makeatother
 
 	\begin{document} 
-		% Center the name over the entire width of resume:
+
+		\voffset=-1cm
 		\moveleft.5\hoffset\centerline{\large\bf CHUNG YI KAO}
 		% Draw a horizontal line the whole width of resume:
 		\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
-		% address begins here
-		% Again, the address lines must be centered over entire width of resume:
-		\moveleft.5\hoffset\centerline{backman.only@gmail.com}
-		\moveleft.5\hoffset\centerline{\href{https://github.com/backman-git}{https://github.com/backman-git}}
-		\moveleft.5\hoffset\centerline{\href{https://www.linkedin.com/in/chung-yi-kao-60161ba4/}{https://www.linkedin.com/in/chung-yi-kao-60161ba4/}}
+		\moveleft.5\hoffset\centerline{backman.only@gmail.com \href{https://github.com/backman-git}{https://github.com/backman-git} }
+	
 
 		\begin{resume}
+			
+
  			\vspace{-0.1in}
- 			\section{OBJECTIVE \& SUMMARY}
- 				Seeking a challenging software development opportunity in a diverse environment where innovation and education are valued and encouraged.\\
-				Software Engineer with experience in Mobile Application, backend system developing, Android system stack, including system service developing, UI animation, a Simulation application, and auxiliary tools.
- 			
-			\vspace{-0.1in}
-			\section{TECHNICAL SKILLS}          
-				\begin{itemize}
-					\item {\bf Program Language}: Python, Java, JavaScript, C++ ,swift 3
+ 			\section{SUMMARY} 
+ 			\vspace{-0.25in}
+ 				A technophile with the passion of using computer science knowledge to improve the quality of work and life.
+ 			\vspace{-0.1in}
+ 			\section{SKILL}
+ 			\vspace{-0.1in}
+ 			\begin{itemize}[leftmargin=*]
+					\item iOS and android app development: java, swift, Objective-C
 					\vspace{-0.05in}
-					\item {\bf Framework}:iOS, Android Stack \& SDK, Node.js, MongoDB, Jade, Less.js
+					\item full-stack development: node.js, javaScript, SQL, MongoDB 		
 					\vspace{-0.05in}
-					\item {\bf Software Engineering}: UML, Design Pattern, OOP
-					\vspace{-0.05in}
-					\item {\bf Machine Learning Framework}: Keras, Matplotlib
-					\vspace{-0.05in}
-					\item {\bf Math}: Statics
-					\vspace{-0.05in}
-					\item {\bf English}: TOEIC 840 pts.
-				\end{itemize}
+					\item Keras machine learning framework: Python
+					
+			\end{itemize}
 			\vspace{-0.1in}
 			\section{EXPERIENCE}
-	 			\vspace{-0.05in}	
-				\begin{tabbing}
-	 				\hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-					{\bf Senior Software Engineer} \>Mstar Semiconductor     \>Jan. 2016 - Sept. 2016\\
-														 \>Hsinchu, Taiwan
-	 			\end{tabbing}
-	 			\vspace{-20pt}      % suppress blank line after tabbing
-	 			\vspace{0.2in}	
-				\begin{itemize}
-					\item Android smart TV division.
+			\vspace{-0.2in}
+
+% mandatory service
+				{\bf Mandatory Service}			 {\hfill Sept. 2016 - July 2017}\\
+				Emergency Services Command Center Engineer   {\hfill Yulin, Taiwan}
+				\begin{itemize}[leftmargin=*]
+					\item Implement the voice-typing system integrated into emergency command system.
 					\vspace{-0.05in}
-					\item Smart TV system stack maintenance. (Binder, service)	
+					\item Implement a human resource assistant ERP system and login App.
 					\vspace{-0.05in}
-					\item Implement image loader for product line. (Reactive programming)
-					\vspace{-0.05in}	
-					\item Auto translation program for multi-language string table (speed up routine task).
-					\vspace{-0.05in}	
-					\item Enhance terminal development.(increase Debugging efficiency)
+					\item Implement a hacking CAPTCHA program.				
+				\end{itemize}
+				\vspace{-0.1in}
+%Mstar
+				{\bf Mstar Semiconductor} 		 {\hfill Jan. 2016 - Sept. 2016}\\
+				Senior Software Engineer		 {\hfill Hsinchu, Taiwan}
+
+				\begin{itemize}[leftmargin=*]
+					\item Develop Android system stack of smart TV (Binder, service)	
+					\vspace{-0.05in}
+					\item Implement electronic program guide application.
+					\vspace{-0.05in}
+					\item Implement an automatic tool for multi-language translation \\(improve developing efficiency: 5hs to 1s)
+					\vspace{-0.05in}		
+					\item Implement logger.(increase Debugging efficiency)
 					\vspace{-0.05in}	
 					\item UML code injection.(runtime sequence diagram for debugging purpose )
-
-
 				\end{itemize}
-				\begin{tabbing}
-	 				\hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions
-					{\bf iOS Development Engineer} \>Industrial Technology Research Institute	
-					\>July 2013 - Sept. 2015\\
-													\>Hsinchu, Taiwan
-	 			\end{tabbing}
-	 			\vspace{-20pt}
-	 			\vspace{0.2in}	
-				\begin{itemize}
-					\item \href{http://www.ece.uci.edu/~chou/pdf/chou-ithings14container2.pdf}{Develop client side App(iOS) of Smart Cold Chain Logistics System}.
-					\vspace{-0.05in}	
-					\item Design a lightweight algorithm of detection about status of container on embedded platform.
+				\vspace{-0.1in}
+% ITRI
+				{\bf Industrial Technology Research Institute } {\hfill July 2013 - Sept. 2015}\\	
+				iOS Development Engineer (Intern)                        {\hfill Hsinchu, Taiwan}
+
+				\begin{itemize}[leftmargin=*]
+					\item Implement iOS monitor application, logging system, backend System.
+					\vspace{-0.05in} 
+					\item Recognition algorithm of Anti-Theft.
+					\vspace{-0.05in}
 				\end{itemize}
-				\begin{tabbing}%
-					\hspace{2.3in}\= \hspace{2.6in}\= \kill % set up two tab positions          
-	 				{\bf Android Development Engineer }  \>KerjaDulu\> Nov. 2014 - July 2015\\
-													\>Taipei, Taiwan
-				\end{tabbing}
-				\vspace{-20pt}
-				\vspace{0.2in}	
-				\begin{itemize}
-					\item {\href{https://play.google.com/store/apps/details?id=com.kerjadulu.kerjadulu&hl=zh_TW}{KerjaDulu Human Resource App}}: Project Starter,OOP Design, UI effect, SQLite
+				\vspace{-0.1in}
+
+%kerjadulu	    
+	 			{\bf KerjaDulu }                                {\hfill  Nov. 2014 - July 2015}\\
+				Android Deveopment Engineer(part-time)			    	 {\hfill Taipei, Taiwan}
+		
+				\begin{itemize}[leftmargin=*]
+					\item {\href{https://play.google.com/store/apps/details?id=com.kerjadulu.kerjadulu&hl=zh_TW}{KerjaDulu Human Resource App}}: Project Starter, OOP Design, UI effect, SQLite, RESTful API
+				\end{itemize}
+				\vspace{-0.1in}
+
+%librarian
+				{\bf Campus library}                            {\hfill  Nov. 2010 - July 2013}\\
+				MIS engineer of library services (part-time)            {\hfill Chaiyi, Taiwan}
+				\begin{itemize}[leftmargin=*]
+					\item Implement B​ook Finder Android App to search books
+					\vspace{-0.05in} 
+					\item Maintain Library Services and System server
 				\end{itemize}
 
-			
-
-			
 			\vspace{-0.1in}
 			\section{HONORS AND AWARDS}  
-			        
+			    \vspace{-0.2in}
 				\noindent {\bf Q​ualcomm award} in \href{https://www.mobilehero.com/component/k2/item/209-a2012_11-10.html?Itemid=196}{MobileHeros}, \href{https://www.youtube.com/watch?v=BvLKtrgq_yw}{\sl B​ook Finder} \hfill 2012\\
 				{\bf Excellent work} in \href{http://innoserve.tca.org.tw/en/index.aspx}{ICT} Innovative Services, \href{https://www.youtube.com/watch?v=nt4eUAXqXyk}{\sl T​ouch Projector​} \hfill 2012\\  
 	
-			\vspace{-0.1in}
-			\section{PET PROJECT}
-			\begin{itemize}
-					\item \href{https://www.youtube.com/watch?v=1UUcqf0pjM0}{EcoSim: A Smartphone-Based Sensor-Node Simulator with Native Sensor and Protocol-Stack Emulation}
-					\vspace{-0.05in}
-					\item \href{https://www.youtube.com/watch?v=H-oOH0-n7_4}{Smart Leave ERP system}
-					\vspace{-0.05in}
-					\item \href{https://www.youtube.com/watch?v=VInyJABrmPo}{Gesture recognition with IoT platform based on triaxial acceleration}  
-					\vspace{-0.05in}
-					\item  \href{https://www.youtube.com/watch?v=9ovWzIu1zy8}{use Machine Learning to hack CAPTCHA}							
-			\end{itemize}
-			\vspace{-0.18in}
+			\vspace{-0.2in}
 			\section{EDUCATION}
-			\vspace{0.1in}
+			\vspace{-0.25in}
 				{\sl Master of Computer Science}, National Tsing Hua University, Taiwan. \hfill Sept. 2015\\
-				
+			\vspace{-0.2in}
+			\section{PET PROJECT}
+			\vspace{-0.1in}
+			\begin{itemize}[leftmargin=*]
+					\item Smart Leave System (Alternative Military Service) 2017
+					\vspace{-0.07in}
+
+					\item EcoSim: A Smartphone-Based Sensor-Node Simulator with Native Sensor and Protocol-Stack Emulation
+					\vspace{-0.07in}
+
+					\item Smart Leave ERP system
+					\vspace{-0.07in}
+					
+					\item Gesture recognition with IoT platform based on triaxial acceleration
+					\vspace{-0.07in}
+					\item use Machine Learning to hack CAPTCHA					
+			\end{itemize}
 
 				          
 			 
