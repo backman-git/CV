@@ -39,6 +39,8 @@ INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/hyperref/hpdftex.def
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty
 INPUT Chung_Yi_Kao.aux
 INPUT Chung_Yi_Kao.aux
 INPUT /usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty

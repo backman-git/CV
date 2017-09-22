@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1506044683 "Chung_Yi_Kao.tex" "Chung_Yi_Kao.pdf" "Chung_Yi_Kao" 1506044684
+["pdflatex"] 1506047656 "Chung_Yi_Kao.tex" "Chung_Yi_Kao.pdf" "Chung_Yi_Kao" 1506047657
   "/usr/local/texlive/2016/texmf-dist/fonts/map/fontname/texfonts.map" 1272929888 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1136768653 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/local/texlive/2016/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -19,6 +19,7 @@
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/omscmr.fd" 1454284088 2256 80ce1168fb4ce6a85583a9cf8972c013 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/base/size10.clo" 1459635588 8292 e897c12e1e886ce77fe26afc5d470886 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/enumitem/enumitem.sty" 1317339792 42666 6fa770e3485520a6a5f2ea7d259c8f8d ""
+  "/usr/local/texlive/2016/texmf-dist/tex/latex/geometry/geometry.sty" 1284422013 40502 e003406220954b0716679d7928aedd8a ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics-cfg/color.cfg" 1459978653 1213 620bba36b25224fa9b7e1ccb4ecb76fd ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/color.sty" 1462915952 6883 23a1cf7539666cc26042e9939b5d08c9 ""
   "/usr/local/texlive/2016/texmf-dist/tex/latex/graphics/keyval.sty" 1428932888 2594 d18d5e19aa8239cf867fa670c556d2e9 ""
@@ -38,8 +39,8 @@
   "/usr/local/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt" 1483445710 3873396 b377868ed3d97209b35d316d6db68df7 ""
   "/usr/local/texlive/2016/texmf.cnf" 1463979140 577 2938757e76f31531e65cc647e3507693 ""
   "Chung_Yi_Kao.aux" 1504663675 8 a94a2480d3289e625eea47cd1b285758 ""
-  "Chung_Yi_Kao.tex" 1506044680 5123 2574bf7b558766e826101db2d6130a00 ""
+  "Chung_Yi_Kao.tex" 1506047656 5779 55d9342a8c84866b9bea5a184284567b ""
   "res.cls" 1504663675 25066 8ec1e15ab4c53340bc92863668c7be49 ""
   (generated)
-  "Chung_Yi_Kao.pdf"
   "Chung_Yi_Kao.log"
+  "Chung_Yi_Kao.pdf"
