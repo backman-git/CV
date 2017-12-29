@@ -1,0 +1,1289 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"password"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"book",
+				"flightBookApi"
+			],
+			[
+				"ge",
+				"genPermutation"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"l",
+				"lR"
+			],
+			[
+				"p",
+				"partialAns"
+			],
+			[
+				"le",
+				"leftRes"
+			],
+			[
+				"s",
+				"slen"
+			],
+			[
+				"so",
+				"Solution"
+			],
+			[
+				"fn",
+				"fn2"
+			],
+			[
+				"id",
+				"idxB"
+			],
+			[
+				"m",
+				"mVal"
+			],
+			[
+				"St",
+				"StringBuffer"
+			],
+			[
+				"arr",
+				"ArrayList"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"k",
+				"keySet"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"wo",
+				"word2"
+			],
+			[
+				"wor",
+				"word2"
+			],
+			[
+				"w",
+				"word1"
+			],
+			[
+				"d",
+				"driver"
+			],
+			[
+				"st",
+				"strs"
+			],
+			[
+				"r",
+				"rPtr"
+			],
+			[
+				"v",
+				"valueSet"
+			],
+			[
+				"o",
+				"oString"
+			],
+			[
+				"Sy",
+				"SynchronizedDemo"
+			],
+			[
+				"Th",
+				"ThreadDemo"
+			],
+			[
+				"slee",
+				"sleepThread"
+			],
+			[
+				"sl",
+				"sleepExample"
+			],
+			[
+				"th",
+				"threadDemo"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"co",
+				"countSubstrings"
+			],
+			[
+				"cl",
+				"class3"
+			],
+			[
+				"get",
+				"getLName"
+			],
+			[
+				"en",
+				"engineer"
+			],
+			[
+				"f",
+				"fName"
+			],
+			[
+				"fu",
+				"FullName"
+			],
+			[
+				"a",
+				"avgV"
+			],
+			[
+				"no",
+				"Node"
+			],
+			[
+				"tr",
+				"traversal"
+			],
+			[
+				"pr",
+				"preOrder"
+			],
+			[
+				"ma",
+				"maxV"
+			],
+			[
+				"sol",
+				"sol198"
+			],
+			[
+				"su",
+				"sumRange"
+			],
+			[
+				"n",
+				"nTKey"
+			],
+			[
+				"t",
+				"tSet"
+			],
+			[
+				"C",
+				"collections"
+			],
+			[
+				"lo",
+				"localMax"
+			],
+			[
+				"Le",
+				"LEAVE"
+			],
+			[
+				"ch",
+				"checkValidStringDriver"
+			],
+			[
+				"e",
+				"eIdx"
+			],
+			[
+				"min",
+				"minV"
+			],
+			[
+				"c",
+				"cAry"
+			],
+			[
+				"di",
+				"diffAry"
+			],
+			[
+				"ar",
+				"aryList"
+			],
+			[
+				"Arr",
+				"ArrayList"
+			],
+			[
+				"pri",
+				"println"
+			],
+			[
+				"str",
+				"strY"
+			],
+			[
+				"is",
+				"isPartialAllUpper"
+			],
+			[
+				"de",
+				"detectCapitalUse"
+			],
+			[
+				"isp",
+				"isPartialAllLower"
+			],
+			[
+				"nu",
+				"num2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"mi",
+				"minDis"
+			],
+			[
+				"fin",
+				"findRotateStepsRecurrsion"
+			],
+			[
+				"ri",
+				"ringLen"
+			],
+			[
+				"da",
+				"datas"
+			],
+			[
+				"cn",
+				"cntAry"
+			],
+			[
+				"dis",
+				"disAry"
+			],
+			[
+				"g",
+				"gDis"
+			],
+			[
+				"b",
+				"bDis"
+			],
+			[
+				"red",
+				"redC"
+			],
+			[
+				"roll",
+				"rollWord"
+			],
+			[
+				"ro",
+				"rolls"
+			],
+			[
+				"cnt",
+				"cntB"
+			],
+			[
+				"bu",
+				"bucket"
+			],
+			[
+				"buc",
+				"buckets"
+			],
+			[
+				"buck",
+				"bucket"
+			],
+			[
+				"mot",
+				"motorName"
+			],
+			[
+				"mai",
+				"mainObj"
+			],
+			[
+				"he",
+				"hellowWorld"
+			],
+			[
+				"of",
+				"offsetX"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"in",
+				"insertion"
+			],
+			[
+				"Id",
+				"IDCostTuple"
+			],
+			[
+				"ob",
+				"obstacleGrid"
+			],
+			[
+				"cu",
+				"currentSet"
+			],
+			[
+				"test",
+				"testData"
+			],
+			[
+				"Pa",
+				"ParchClass"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"pt",
+				"ptr"
+			],
+			[
+				"ptr",
+				"ptr1"
+			],
+			[
+				"tes",
+				"testData"
+			],
+			[
+				"tri",
+				"trainData"
+			],
+			[
+				"te",
+				"testData"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"train",
+				"trainData"
+			],
+			[
+				"sum",
+				"sumV"
+			],
+			[
+				"gen",
+				"generator"
+			],
+			[
+				"L",
+				"List"
+			],
+			[
+				"it",
+				"intersection"
+			],
+			[
+				"mid",
+				"midS"
+			],
+			[
+				"h",
+				"heaters"
+			],
+			[
+				"cut",
+				"cutList"
+			],
+			[
+				"an",
+				"ansMatrix"
+			],
+			[
+				"mat",
+				"matrix"
+			],
+			[
+				"pas",
+				"passF"
+			],
+			[
+				"seg",
+				"segSet"
+			],
+			[
+				"idx",
+				"idxE"
+			],
+			[
+				"to",
+				"totalMin"
+			],
+			[
+				"rec",
+				"recordVoice"
+			],
+			[
+				"voic",
+				"voiceToText"
+			],
+			[
+				"ca",
+				"candidates"
+			],
+			[
+				"la",
+				"lazy_pinyin"
+			],
+			[
+				"new",
+				"newNode"
+			],
+			[
+				"tar",
+				"targetNode"
+			],
+			[
+				"lev",
+				"levelTable"
+			],
+			[
+				"hi",
+				"highScore"
+			],
+			[
+				"go",
+				"goodChild"
+			],
+			[
+				"wordListl",
+				"wordListLen2"
+			],
+			[
+				"patt",
+				"patternGen"
+			],
+			[
+				"isc",
+				"isSubsequence"
+			],
+			[
+				"ne",
+				"newNr"
+			],
+			[
+				"un",
+				"UndirectedGraphNode"
+			],
+			[
+				"work",
+				"workerL"
+			],
+			[
+				"use",
+				"used"
+			],
+			[
+				"bit",
+				"bitValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/WEB-INF/web.xml",
+			"settings":
+			{
+				"buffer_size": 1370,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/Login.jsp",
+			"settings":
+			{
+				"buffer_size": 325,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Backman/Desktop/ISR/tomcat/goal",
+			"settings":
+			{
+				"buffer_size": 915,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Chung_Yi_Kao.tex",
+			"settings":
+			{
+				"buffer_size": 6165,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/WEB-INF/classes/Login.java",
+			"settings":
+			{
+				"buffer_size": 937,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/working_daily.txt",
+			"settings":
+			{
+				"buffer_size": 88,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/loginFailure.jsp",
+			"settings":
+			{
+				"buffer_size": 150,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/User/java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/less.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/less.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/java.sublime-build",
+					""
+				],
+				[
+					"Packages/User/java.sublime-build",
+					"Java Lintter"
+				],
+				[
+					"Packages/User/java.sublime-build",
+					"Run Java"
+				]
+			],
+			[
+				"Packages/User/java.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/less.sublime-build",
+					""
+				],
+				[
+					"Packages/User/node.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/node.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Backman/Desktop/ISR/tomcat",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps"
+	],
+	"file_history":
+	[
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/java.sublime-build",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/servlet.sublime-build",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps/Login/loginSuccess.jsp",
+		"/Users/Backman/Desktop/ISR/tomcat/goal",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps/working_daily.txt",
+		"/Users/Backman/Desktop/CV/CV/Chung_Yi_Kao.tex",
+		"/Users/Backman/Desktop/leetcode/leetcode/java/t657.java",
+		"/Users/Backman/Desktop/leetcode/leetcode/java/657.java",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps/Test/WEB-INF/classes/web.xml",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps/Test/test.jsp",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps/docs/WEB-INF/web.xml",
+		"/Users/Backman/Desktop/ISR/tomcat/webapps/ROOT/WEB-INF/web.xml",
+		"/Users/Backman/Desktop/ISR/source/Test.java",
+		"/Users/Backman/Desktop/chatroom/chatRoom/package.json",
+		"/Users/Backman/Desktop/chatroom/chatRoom/webpack.config.js",
+		"/Users/Backman/Desktop/raw.php",
+		"/Users/Backman/Desktop/t.py",
+		"/Users/Backman/Desktop/leetcode/leetcode/backtracking/sol22.py",
+		"/Users/Backman/Desktop/leetcode/leetcode/backtracking/template.py",
+		"/Users/Backman/Desktop/leetcode/leetcode/sol60.py",
+		"/Users/Backman/Desktop/leetcode/leetcode/728.py",
+		"/Users/Backman/Desktop/104 回復樣板",
+		"/Users/Backman/Desktop/CV/Chung_Yi_Kao.tex",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/Backman/Desktop/cv/upload/CV/docs/index.html",
+		"/Users/Backman/Desktop/cv/CV/docs/index.html",
+		"/Users/Backman/Desktop/cv/CV/Dear Mr. Chung Yi Kao,",
+		"/Users/Backman/Desktop/mail.txt",
+		"/Users/Backman/Desktop/Dear Mr. Chung Yi Kao,",
+		"/Users/Backman/Desktop/cv/CV/Chung_Yi_Kao.tex",
+		"/Users/Backman/Desktop/example/webpack.config.js",
+		"/Users/Backman/Desktop/example/index.html",
+		"/Users/Backman/Desktop/example/index.js",
+		"/Users/Backman/Desktop/example/package.json",
+		"/Users/Backman/Desktop/example/.babelrc",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/babel.sublime-build",
+		"/Users/Backman/Desktop/example/babel.rc",
+		"/Users/Backman/Desktop/example/node_modules/babel-preset-env/node_modules/babel-plugin-transform-es2015-object-super/node_modules/babel-helper-replace-supers/node_modules/babel-traverse/node_modules/lodash/fp/omitAll.js",
+		"/index.js",
+		"/Users/Backman/Desktop/gitFun/README.md",
+		"/Users/Backman/Documents/java/BigNumber.java",
+		"/Users/Backman/Desktop/language smiliar/Python.py",
+		"/Users/Backman/Desktop/language smiliar/Java.java",
+		"/Users/Backman/Documents/java/bigNumber.java",
+		"/Users/Backman/Documents/leetcode/java/sol215.java",
+		"/Users/Backman/Documents/java/p.java",
+		"/Users/Backman/Desktop/t",
+		"/Users/Backman/Documents/leetcode/java/sol583.java",
+		"/Users/Backman/Documents/leetcode/java/sol516.java",
+		"/Users/Backman/Desktop/to jerming",
+		"/Users/Backman/Desktop/objective-C/main.m",
+		"/Users/Backman/Documents/java/PC.java",
+		"/Users/Backman/Documents/java/ThreadDemo.java",
+		"/Users/Backman/Documents/java/SynchronizedDemo.java",
+		"/Users/Backman/Documents/ECOSIM/work_place/fake_ble_stack/ble/include/gapgattserver.c",
+		"/Users/Backman/Documents/java/ThreadDemo",
+		"/Users/Backman/Documents/java/sleepThread.java",
+		"/Users/Backman/Documents/java/threadDemo.java",
+		"/Users/Backman/Downloads/CustomLayouts/res/values/attrs.xml",
+		"/Users/Backman/Downloads/CustomLayouts/res/layout/debug_activity_layout.xml",
+		"/Users/Backman/Downloads/CustomLayouts/src/com/androidbook/customLayouts/FlowLayout.java",
+		"/Users/Backman/Downloads/CustomViews/src/com/androidbook/custom/AbstractBaseView.java",
+		"/Users/Backman/Downloads/CustomViews/src/com/androidbook/custom/CircleView.java",
+		"/Users/Backman/Desktop/android/重點整理",
+		"/Users/Backman/Documents/leetcode/leetcode/647.py",
+		"/Users/Backman/Documents/leetcode/java/sol647.java",
+		"/Users/Backman/Desktop/rakutenSpeak/speakSheet2",
+		"/Users/Backman/Desktop/iOS_Swift_template/playground/sample.swift",
+		"/Users/Backman/Desktop/因為container 會去取得溫度跟濕度 這兩個資訊，",
+		"/Users/Backman/Documents/leetcode/hackrank/Sherlock and the Valid String.py",
+		"/Users/Backman/Desktop/IOS/重點整理",
+		"/Users/Backman/Documents/leetcode/hackrank/topView.py",
+		"/Users/Backman/Documents/leetcode/hackrank/Binary Search Tree Insertion.py",
+		"/Users/Backman/Desktop/にほご",
+		"/Users/Backman/Documents/leetcode/leetcode/650.py",
+		"/Users/Backman/Documents/leetcode/hackrank/preOrder.py",
+		"/Users/Backman/Documents/leetcode/java/sol198.java",
+		"/Users/Backman/Documents/leetcode/java/sol303.java",
+		"/Users/Backman/Desktop/mixBox/tt.py",
+		"/Users/Backman/Desktop/mixBox/t3.py",
+		"/Users/Backman/Desktop/mixBox/t2.py",
+		"/Users/Backman/Desktop/mixBox/t1.py",
+		"/Users/Backman/Documents/leetcode/hackrank/Staircase.py",
+		"/Users/Backman/Documents/leetcode/leetcode/sol678.py",
+		"/Users/Backman/Documents/leetcode/leetcode/667.py",
+		"/Users/Backman/Documents/leetcode/hackrank/Diagonal Difference.py",
+		"/Users/Backman/Documents/leetcode/leetcode/sol680.py",
+		"/Users/Backman/Documents/leetcode/java/sol53.java",
+		"/Users/Backman/Documents/leetcode/java/sol1.java",
+		"/Users/Backman/Documents/leetcode/java/sol347.java",
+		"/Users/Backman/Documents/leetcode/java/sol409.java",
+		"/Users/Backman/Documents/leetcode/leetcode/bucketSort.py",
+		"/Users/Backman/Documents/leetcode/java/sol389.java",
+		"/Users/Backman/Documents/java/dictionaryDemo.java",
+		"/Users/Backman/Documents/leetcode/java/sol645.java",
+		"/Users/Backman/Desktop/resume ojbective",
+		"/Users/Backman/Documents/leetcode/hackrank/camelCase.py",
+		"/Users/Backman/Documents/leetcode/hackrank/equal.py",
+		"/Users/Backman/Documents/leetcode/hackrank/fibonacci Modified.py",
+		"/Users/Backman/Documents/java/strategy/thread.java",
+		"/Users/Backman/Documents/java/exceptionHandle/errorHandle.java",
+		"/Users/Backman/Documents/leetcode/java/sol500.java",
+		"/Users/Backman/Documents/leetcode/java/sol169.java",
+		"/Users/Backman/Documents/leetcode/java/sol191.java",
+		"/Users/Backman/Documents/leetcode/java/sol561.java",
+		"/Users/Backman/Documents/leetcode/java/sol485.java",
+		"/Users/Backman/Documents/leetcode/java/sol532.java",
+		"/Users/Backman/Documents/leetcode/java/sol461.java",
+		"/Users/Backman/Documents/leetcode/java/sol520.java",
+		"/Users/Backman/Documents/leetcode/java/Demo.java",
+		"/Users/Backman/Documents/java/strategy/520.java",
+		"/Users/Backman/Documents/java/strategy/Context.java",
+		"/Users/Backman/Documents/java/strategy/SubOpp.java",
+		"/Users/Backman/Documents/java/strategy/AddOpp.java",
+		"/Users/Backman/Documents/java/strategy/Demo.java",
+		"/Users/Backman/Documents/java/strategy/Strategy.java",
+		"/Users/Backman/Documents/java/strategy/Context.py",
+		"/Users/Backman/Documents/java/strategy/subOpp.java",
+		"/Users/Backman/Documents/java/strategy/strategy.java",
+		"/Users/Backman/Documents/java/stragety/strategy.java",
+		"/Users/Backman/Documents/java/HelloWorld.java",
+		"/Users/Backman/Documents/java/test.java",
+		"/Users/Backman/Library/Application Support/Sublime Text 3/Packages/User/python3.sublime-build",
+		"/Users/Backman/Documents/leetcode/leetcode/493.py",
+		"/Users/Backman/Documents/leetcode/leetcode/514.py",
+		"/Users/Backman/Documents/leetcode/hackrank/Maximum Perimeter Triangle.py",
+		"/Users/Backman/Documents/kaggle/titanic/analysis/analysis.py",
+		"/Users/Backman/Desktop/あの人　わ　学生　です"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/WEB-INF/web.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1150,
+								1150
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/XML/XML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/Login.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 325,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Java/Java Server Pages (JSP).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/Backman/Desktop/ISR/tomcat/goal",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 915,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Chung_Yi_Kao.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6165,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3537,
+								3537
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1420.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/WEB-INF/classes/Login.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 937,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								815,
+								815
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/working_daily.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 88,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/Backman/Desktop/ISR/tomcat/webapps/Login/loginFailure.jsp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 150,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 160.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.latextools":
+	{
+		"height": 188.0
+	},
+	"pinned_build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"project": "bx.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"node_modules/babel-preset-env/node_modules/babel-plugin-transform-es2015-object-super/node_modules/babel-helper-replace-supers/node_modules/babel-traverse/node_modules/lodash/fp/omitAll.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
