@@ -1,0 +1,205 @@
+% LaTeX file for resume
+% This file uses the resume document class (res.cls)
+\documentclass{res}
+\usepackage{helvet}
+\usepackage{enumitem}
+
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}
+
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0mm}
+  {-\baselineskip}{0.5\baselineskip}{\bf\leftline}}
+\makeatother
+\usepackage[top=1in,left=0.5in,bottom=0in]{geometry}
+	\begin{document}
+		\voffset=-1.5cm
+		\moveleft.5\hoffset\centerline{\large\bf CHUNG YI KAO}
+		% Draw a horizontal line the whole width of resume:
+		\moveleft\hoffset\vbox{\hrule width\resumewidth height 1pt}\smallskip
+		\moveleft.5\hoffset\centerline{backman@gapp.nthu.edu.tw \href{https://github.com/backman-git}{https://github.com/backman-git} }
+		\begin{resume}
+ 			\vspace{-0.3in}
+ 			\section{SUMMARY}
+ 			\vspace{-0.25in}
+ 				A technophile with the passion of using computer science knowledge to improve the quality of work and life.
+ 			\vspace{-0.1in}
+ 			\section{SKILL}
+ 			\vspace{-0.1in}
+ 			\begin{itemize}
+					\item Golang(current), Java, Python
+					\vspace{-0.05in}
+					\item Spring Framework, Apache Camel(EIP), PostgreSQL, E.L.K, Docker, Jenkin
+					\vspace{-0.05in}
+					\item GDB, JDB, JVM
+					\vspace{-0.05in}
+					\item Simulator(EcoSim), Interpreter(PHP.js), VM(JVM.py).
+			\end{itemize}
+			\vspace{-0.1in}
+			\section{EXPERIENCE}
+			\vspace{-0.2in}
+
+
+%Shopee         \\
+                {\hfill \textbf{Shopee}  \hspace{5cm} Feb. 2021 - Current }\\
+                {\bf Tech Lead} {\hfill Singapore}
+                \begin{itemize}
+                    \item \textbf{Performance \& SLO Solution}
+                    \subitem 1. Lead \textbf{SLO Platform Project} to establish company SLOs measurement(90\% Critical Services)
+                    \subitem 2. Design and Lead an \textbf{Profiling Solution} for live troubleshooting and performance optimization
+                    \subitem 3. Mentoring engineers
+                \end{itemize}
+                
+                {\bf Senior Backend Engineer}
+                \begin{itemize}
+                    \item \textbf{Maintain and Sunset Monolithic Shopee Core Service (Conn Server, Coreserver)}
+                    \subitem 1. Introduce multiple solution such as \textbf{Proxy Protocol} for traffic monitoring, and coordinate with each domain core service PIC to migrate the traffic smoothly. 
+                    \subitem 2. Company-wide project feature development such as (Shadow Traffic, Split by Market)
+                    \item \textbf{Maintain TCC middleware}
+                    \subitem 1. Company-wide project feature development such as (Shadow Traffic, Split by Market)
+                    \subitem 2. Research Industrial features and development
+                \end{itemize}
+
+
+
+%Rakuten
+				{\hfill{\bf Rakuten}\hspace{4.6cm}  Aug. 2018 - Feb. 2021}\\
+				{\bf Senior Java Backend Engineer}   {\hfill Tokyo Japan}
+				\begin{itemize}
+                   
+					\item \textbf{resolve legacy DB issue}: 
+					    \subitem 1. Use profiler to optimize DB query and index usage. 5s to 500ms(90\%)
+					\item \textbf{warehouse migration project}: 
+					    \subitem 1. Cross team cooperative project. 
+					    \subitem 2. Propose new design for the future migration. 
+					    \subitem 3. Refactor system & source code.
+				    \item \textbf{Distribute tracing}
+				        \subitem 1. Introducing spring cloud sleuth to micro-service for system analysis.
+				    
+				    \item \textbf{Development Environment Optimization}
+					\subitem \textbf{- PHP dev-cache extension}: Develop a PHP cache extension to monitor source files, and generate hash code leverage to use the browser's cache(Etag) mechanism. 4s to 200ms(95\%)
+					\subitem \textbf{- Dockerize development environment} increase development efficiency and reduce the on board time.
+					\subitem \textbf{- Pipeline enhancement} Parallelize the pipeline build
+					\subitem \textbf{- Mock API}: Use Nginx's cache mechanism to cache the upstream server's responses. 3s to 150ms(95\%)
+				    
+				    \item \textbf{Enterprise Integration Patterns}
+				    \subitem Apache Camel, ActivMQ
+				    \subitem Spring framework, GraphQL, ELK, kafka, Srping Batch, message driven design.
+				    \item \textbf{Domain Driven Design}
+				    \subitem Distributed Transaction: Saga, TCC, 2PC
+	
+				\end{itemize}
+
+%mandatory service
+				{\hfill {\bf National Rescue Command Center (Military Service) \hspace{1cm} Nov. 2016 - Nov 2017}\\
+				{\bf Service Developer}   {\hfill Yulin, Taiwan}
+				\\
+%				\begin{itemize}
+%					\item \textbf{Design and experiment the voice-typing system} integrated on an emergency command system. (100s to 20s)
+  %                  \item \textbf{Design a hacking CAPTCHA program} to verify the security issue.}
+  %                  \item \textbf{Design and implement a human resource assistant ERP system and login App.}( reduce daily works from 3 days to 1 day)
+%This is SPA client side render smart leave system, I use Redux.js and React.js to implement. %Express.js to implement backend system and PostgreSQL to store Data. I also develop an interesting UX %experience call ”cell as stamp”. It uses the QRCode as a method to identify personal ID(oAuth2) and %make the usage of the system easier and more intuitive.
+%				\end{itemize}
+%				\vspace{-0.10in}
+
+%Mstar
+				{\hfill{\bf Mstar Semiconductor}\hspace{3.5cm} Jan. 2016 - Sept. 2016}\\
+				{\bf Senior Software Engineer (Research alternative service) }		 {\hfill Hsinchu, Taiwan}
+				\begin{itemize}
+					\item Cooperate with Amazon software team in smart TV project)
+					\vspace{-0.05in}
+					\item Developed Android system stack for smart TV (Binder, service)
+					\vspace{-0.05in}
+					\item Implemented electronic program guide application.
+					\vspace{-0.05in}
+					\item Implemented an automatic tool for multi-language translation(Improved developing efficiency: 5hs to 1s)
+					\vspace{-0.05in}
+					\item Implemented the logger.(FileBeat)
+					\vspace{-0.05in}
+					\item UML code injection.(Runtime sequence diagram for debugging)
+				\end{itemize}
+				\vspace{-0.10in}
+% ITRI
+%				{\bf Industrial Technology Research Institute } \\
+%				{\bf Fullstack Development Engineer (Internship)}                        {\hfill Hsinchu, Taiwan}\\
+%				Smart Insulating Container with Anti-Theft Features by M2M Tracking {\footnotesize in Proc. 2014 IEEE (iThings 2014)}
+%				\vspace{0.05in}
+%				\begin{itemize}
+%					\item Implemented iOS monitor application, logging system, backend system for a cold-chain logistics system.
+%					\vspace{-0.05in}
+%					\item Recognition algorithm for anti-theft.
+%				\end{itemize}
+%				\vspace{-0.10in}
+
+
+
+%kerjadulu
+%	 			{\bf KerjaDulu }                                  \\
+%				{\bf Android Development Engineer (Internship)}			    	 {\hfill Taipei, Taiwan}
+
+%				\begin{itemize}
+%					\item {\href{https://www.techinasia.com/kerjadulu-funding-mnc-group}{KerjaDulu Human Resource App}}: KerjaDulu is a human resource app which targets Indonesia labor market.
+%					\vspace{-0.05in}
+%					\item Native android framework to build an android app.
+%					\vspace{-0.05in}
+					%\item Node.js and PostgreSQL to build the backend %system.
+				%\end{itemize}
+				%\vspace{-0.10in}
+
+			\section{HONORS AND AWARDS}
+				\begin{itemize}
+					\item {\bf IEEE Conference Paper} in \href{https://expo.itri.org.tw/2019VLSIDAT/Program/SessionView/Regular}{VLSI-DAT}, \href{https://hdl.handle.net/11296/x3c4a6}{\sl EcoSim: Sensor-Node Simulator} \hfill 2019
+					\vspace{-0.05in}
+					\item {\bf Q​ualcomm Award} in \href{https://www.mobilehero.com/component/k2/item/209-a2012_11-10.html?Itemid=196}{MobileHeros}, \href{https://www.youtube.com/watch?v=BvLKtrgq_yw}{\sl B​ook Finder} \hfill 2012
+					\vspace{-0.05in}
+					\item {\bf Excellent Work} in \href{http://innoserve.tca.org.tw/en/index.aspx}{ICT} Innovative Services, \href{https://www.youtube.com/watch?v=nt4eUAXqXyk}{\sl T​ouch Projector​} \hfill 2012
+				\end{itemize}
+
+			\section{EDUCATION}
+			\vspace{-0.10in}
+				{\sl Master of Computer Science}, National Tsing Hua University, Taiwan. \hfill Sept. 2015\\
+				{\footnotesize Thesis: EcoSim: A Smartphone-Based Sensor-Node Simulator with Native Sensor and Protocol-Stack Emulation}
+
+
+
+
+
+			\section{PROJECT}
+			\vspace{-0.1in}
+			\begin{itemize}
+
+					\item EcoSim: A Smartphone-Based Sensor-Node Simulator with Native Sensor and Protocol-Stack Emulation
+					\vspace{-0.05in}
+
+					\item \href{https://github.com/backman-git/Interpreter.js}{\sl PHP.js}
+					\vspace{-0.05in}
+
+					\item \href{https://github.com/backman-git/JVM.py}{\sl JVM.py}
+					\vspace{-0.05in}
+
+					\item Using Machine Learning to hack CAPTCHA
+					\vspace{-0.05in}
+
+					\item Voice Recognition and Correction (ED algorithm)
+					\vspace{-0.05in}
+
+					\item Smart Leave System (Alternative Military Service)(API server, AWS, oAuth2)
+					\vspace{-0.05in}
+
+					\item Touch projector
+					\vspace{-0.05in}
+
+					\item Book Finder (Indoor location service of library)
+					\vspace{-0.05in}
+
+					\item Gesture recognition with IoT platform based on triaxial acceleration
+					\vspace{-0.05in}
+
+			\end{itemize}
+
+
+		\end{resume}
+	\end{document}
