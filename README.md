@@ -4,7 +4,5 @@ about me:
 
 
 Resume :
-[Chung_Yi_Kao.pdf](https://github.com/backman-git/CV/blob/master/Chung_Yi_Kao.pdf)
+[Chung_Yi_Kao.pdf](https://github.com/backman-git/CV/blob/master/Kao_Chung_Yi_CV_2024.pdf)
 
-Project Report:
-[project report.pdf](https://github.com/backman-git/CV/blob/master/projectReport2017.pdf)
